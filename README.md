@@ -8,10 +8,10 @@ congressional election.
 ### 2. A complete list of candidates who received votes.
 ### 3. The percentage of votes each candidate won.
 ### 4. The total number of votes each candidate won.
-# 5. The winner of the election based on popular vote.
-# 6. The complete list of counties in this congressional election.
-# 7. Voter turn-out results for the counties in this congressional election.
-# 8. The county with the largest turnout.
+### 5. The winner of the election based on popular vote.
+### 6. The complete list of counties in this congressional election.
+### 7. Voter turn-out results for the counties in this congressional election.
+### 8. The county with the largest turnout.
 
 ## Resources
 - Data Source: election_resulrs.csv
@@ -43,11 +43,10 @@ Winning Percentage: 73.8%
 ![Election_Analysis](./ElectionResultsText.png)
 
 ## Election-Audit Summary
-This Python script was written to provide easy access to election results with-out needing to use excel which can:
-more time consuming to run process, even if it has been written in VBA.
-consuming and because data is .
+This Python script was written to provide easy access to election results with-out needing to use excel which can be
+more time consuming to run the process and to re-use available code.
 
-Here are some additional uses for the module with somewhat easy modifications:
+Here are some possible additional uses for the module with somewhat easy modifications:
 1) If the input .csv has additional columns or is not in the same order, it would be easy to modify the code to accept a different
 .csv columnns.
 2) If the election_results.csv could be modified to include if the ballots were either:
