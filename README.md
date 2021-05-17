@@ -37,7 +37,7 @@ Winning Percentage: 73.8%
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 - The county with the largest turnout: Denver 
-
+![VBA_Challenge](./ElectionResultsTerminal.png)
 ## Election-Audit Summary
 This Python script was written to provide easy access to election results with-out needing to use excel which can:
 more time consuming to run process, even if it has been written in VBA.
