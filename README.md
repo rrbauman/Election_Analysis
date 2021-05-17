@@ -18,7 +18,7 @@ congressional election.
 - Software: Python 3.6.1, Visusal Studio Code, 1.38.1
 
 ## Election Audit Results
-The analysis of the election show that:
+The analysis of the election show the following:
 - There were 369,711 votes cast in the election.
 - The candiddates were:
     - Charles Casper
@@ -37,7 +37,10 @@ Winning Percentage: 73.8%
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 - The county with the largest turnout: Denver 
+
+- This output is available in the terminal and as output in a text file:
 ![Election_Analysis](./ElectionResultsTerminal.png)
+![Election_Analysis](./ElectionResultsText.png)
 
 ## Election-Audit Summary
 This Python script was written to provide easy access to election results with-out needing to use excel which can:
@@ -56,6 +59,4 @@ Here are some additional uses for the module with somewhat easy modifications:
 votes based on requirements of how many candidates are eligible to run.
 
 # Challenge Overview
-Was difficult and time comsuming - but using Python is fun.
-
-## Challange Summary
+Was difficult and time comsuming to do the assignment but the challenge was a bit easier as I had everything in place from the assignment.
